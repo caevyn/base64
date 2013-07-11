@@ -1,0 +1,15 @@
+{
+  "name": "base64",
+  "repo": "caevyn/base64",
+  "description": "Tom Wu's base64 library wrapped up in a component",
+  "version": "1.0.0",
+  "keywords": [
+       "base64"    
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "BSD",
+  "scripts": [
+    "base64.js"
+  ]
+}
