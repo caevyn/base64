@@ -9,6 +9,7 @@
   "dependencies": {},
   "development": {},
   "license": "BSD",
+  "main":"base64.js",
   "scripts": [
     "base64.js"
   ]
