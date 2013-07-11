@@ -72,6 +72,6 @@ function b64toBA(s) {
 
 module.exports = {
     b64toBA : b64toBA,
-    b64tohex : b64tohex
+    b64tohex : b64tohex,
     hex2b64 : hex2b64
 };
