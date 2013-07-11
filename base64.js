@@ -70,7 +70,7 @@ function b64toBA(s) {
   return a;
 }
 
-var Base64 = { };
+function Base64(){ };
 Base64.prototype.b64toBA = b64toBA;
 Base64.prototype.b64tohex = b64tohex;
 Base64.prototype.hex2b64 = hex2b64;
