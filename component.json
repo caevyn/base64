@@ -6,7 +6,7 @@
   "keywords": [
        "base64"    
   ],
-  "dependencies": {},
+  "dependencies": {"caevyn/jsbn":"*"},
   "development": {},
   "license": "BSD",
   "main":"base64.js",
